@@ -1,0 +1,20 @@
+Generate Effort Report
+
+INTRODUCTION
+------------
+
+
+The effort report generator will combine all daily reports sent in by testers and create
+a pivot table that will combine data from the reports in a meaningful summary. The program
+will provide administrators a one click access to the most relevant information and 
+an organized report.
+
+INSTALLATION
+-------------
+
+This program requires the following setup:
+
+	1. Save the provided 'dist' and 'results' folder in local C drive
+	2. Go into the 'dist' folder and copy a shortcut of 'GenerateEffortReport.exe' 
+	   to your desktop
+	3. Updated report will open in excel. Save file when prompted
